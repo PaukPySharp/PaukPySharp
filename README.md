@@ -70,7 +70,6 @@
 ## Статистика
 
 <p align="center">
-  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaukPySharp&theme=dark" alt="GitHub summary" />
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaukPySharp&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=Inno%20Setup" alt="Top languages" />
 </p>
 
@@ -93,3 +92,9 @@
     <img src="https://img.shields.io/badge/GitHub-PaukPySharp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<!-- 
+<p align="center">
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaukPySharp&theme=dark" alt="GitHub summary" />
+</p>
+--> 
