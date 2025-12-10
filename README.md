@@ -69,11 +69,11 @@
 
 ## Статистика
 
-<p align="center">
+<p align="left">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaukPySharp&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=Inno%20Setup" alt="Top languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=PaukPySharp&style=flat-square&color=blue" alt="profile views" />
 </p>
 
