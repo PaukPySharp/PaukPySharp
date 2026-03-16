@@ -50,8 +50,17 @@
 ## Некоторые проекты
 
 <p align="center">
-  <a href="https://github.com/PaukPySharp/ExportIFCfromRevit">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PaukPySharp&repo=ExportIFCfromRevit&theme=dark&hide_border=true" alt="ExportIFCfromRevit repo card" />
+  <a href="https://github.com/PaukPySharp/ExportIFCFromRevit-Python">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PaukPySharp&repo=ExportIFCFromRevit-Python&theme=dark&hide_border=true"
+      alt="ExportIFCFromRevit-Python repo card"
+    />
+  </a>
+  <a href="https://github.com/PaukPySharp/ExportIFCFromRevit-CSharp">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PaukPySharp&repo=ExportIFCFromRevit-CSharp&theme=dark&hide_border=true"
+      alt="ExportIFCFromRevit-CSharp repo card"
+    />
   </a>
 </p>
 
@@ -82,14 +91,14 @@
 ## Где меня найти
 
 <p align="center">
-  <a href="https://stepik.org/users/448847717">
-    <img src="https://img.shields.io/badge/Stepik-профиль-0e72a3?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik" />
-  </a>
   <a href="https://t.me/slavach1">
     <img src="https://img.shields.io/badge/Telegram-@slavach1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/PaukPySharp">
     <img src="https://img.shields.io/badge/GitHub-PaukPySharp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stepik.org/users/448847717">
+    <img src="https://img.shields.io/badge/Stepik-профиль-0e72a3?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik" />
   </a>
 </p>
 
